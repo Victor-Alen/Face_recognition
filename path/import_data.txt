@@ -1,0 +1,3 @@
+id,name,major,image_path
+400,Zhang San,Computer Science,/path/400.jpg
+411,Li Si,Physics,/path/411.jpg

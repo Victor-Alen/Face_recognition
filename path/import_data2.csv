@@ -1,0 +1,43 @@
+id,name,major,image_path
+400,Zhang San,Computer Science,path/400.png
+411,Li Si,Physics,path/411.png
+401,Li SAA,Mathematics,path/401.jpg
+402,Wang Wu,Chemistry,path/402.jpg
+403,Liu Qi,History,path/403.jpeg
+404,Chen Ba,English,path/404.jpeg
+405,Zhao Liu,Psychology,path/405.jpeg
+406,Sun Jia,Electrical Engineering,path/406.jpeg
+407,Yang Ming,Biology,path/407.jpg
+408,Xu Hua,Economics,path/408.jpeg
+409,Wu Xia,Geology,path/409.jpeg
+410,Zhang Hong,Political Science,path/410.jpeg
+4111,Li Zhi,Sociology,path/411.jpeg
+412,Wang Yuan,Philosophy,path/412.jpg
+413,Liu Feng,Art,path/413.jpeg
+414,Chen Lei,Music,path/414.jpeg
+415,Zhao Xin,Physics,path/415.jpeg
+416,Sun Wei,Chemical Engineering,path/416.jpg
+417,Yang Li,Environmental Science,path/417.jpeg
+418,Xu Ming,Statistics,path/418.jpeg
+419,Wu Yan,Medicine,path/419.jpg
+420,Zhang Ying,Education,path/420.jpeg
+421,Li Dan,Computer Engineering,path/421.jpeg
+422,Wang Qian,Linguistics,path/422.jpeg
+423,Liu Mei,Anthropology,path/423.jpeg
+424,Chen Rui,Mathematics,path/424.jpeg
+425,Zhao Mei,Psychology,path/425.jpg
+426,Sun Jing,Electrical Engineering,path/426.jpg
+427,Yang Chen,Biology,path/427.jpg
+428,Xu Jing,Economics,path/428.jpeg
+429,Wu Chen,Geology,path/429.jpeg
+430,Zhang Jing,Political Science,path/430.jpg
+431,Li Rong,Sociology,path/431.jpg
+432,Wang Xing,Philosophy,path/432.jpg
+433,Liu Yan,Art,path/433.jpeg
+434,Chen Xin,Music,path/434.jpg
+435,Zhao Qiang,Physics,path/435.jpeg
+436,Sun Hong,Chemical Engineering,path/436.jpg
+437,Yang Wei,Environmental Science,path/437.jpeg
+438,Xu Lei,Statistics,path/438.jpg
+439,Wu Rui,Medicine,path/439.jpeg
+440,Kao Bei,IL,path/440.jpeg
